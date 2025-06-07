@@ -2,7 +2,7 @@
 
 A fast-paced **2D space shooter** built with **Unity** and **C#**, featuring **local co-op multiplayer** and dynamic powerups – all playable directly in your browser!
 
-🌐 **[▶ Play Now](https://tanshetty2409.github.io/space-shooter-webgl/)**
+🌐 **[▶ Play Now](https://tanshetty2409.github.io/Space-Shooter-WebGL/)**
 
 ---
 
